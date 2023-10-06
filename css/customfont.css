@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Regular';
+    src: url('FONT/INTER-REGULAR.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Light';
+    src: url('FONT/INTER-LIGHT.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Extra light';
+    src: url('FONT/INTER-EXTRALIGHT.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Thin';
+    src: url('FONT/INTER-THIN.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Medium';
+    src: url('FONT/INTER-MEDIUM.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Semibold';
+    src: url('FONT/INTER-BOLD.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Bold';
+    src: url('FONT/INTER-BOLD.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Extra Bold';
+    src: url('FONT/INTER-EXTRABOLD.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Black';
+    src: url('FONT/INTER-BLACK.TTF') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('FONT/ROBOTO-REGULAR.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Social';
+    src: url('FONT/SOCIALICO.TTF') format('truetype');
+}
